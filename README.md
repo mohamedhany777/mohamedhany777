@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mohamed Hany, Machine Learning Engineer and Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b>Egypt</b>.</p>
+<p>Welcome to my page! </br> I'm Mohamed Hany, Machine Learning Engineer and Data Scientist from  <b>Egypt</b>.</p>
 
 <h3>Things I work with</h3>
 <p>

@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eng. Mohamed Hany</h1>
-<h3 align="center">Software Engineer | Python Developer | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">AI Engineer | Python Developer | Machine Learning Specialist</h3>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Software+Engineer;Python+Developer;AI+%26+Machine+Learning;Automation+Expert;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=AI+Engineer;Python+Developer;Machine+Learning+Specialist;Data+Science+Expert;Feature+Engineering+Pro" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -20,12 +20,11 @@
 ---
 
 ## 💡 About Me
-- 👨‍💻 Software Engineer specialized in **Python Development** and **Automation**.
-- 🤖 Passionate about **Machine Learning** & **AI Solutions**.
-- 🛠 Skilled in building APIs, automation scripts, and data-driven applications.
-- 🚀 Interested in **Data Science Projects**, AI-powered apps, and backend systems.
-- 🌍 I aim to create impactful solutions that solve real-world problems.
-- 📚 Always learning and improving my skills.
+- 🤖 AI Engineer specialized in **Machine Learning** and **Deep Learning**.
+- 📊 Experienced in **Data Cleaning**, **Feature Engineering**, and **Exploratory Data Analysis (EDA)**.
+- 🧠 Skilled at building and deploying AI models for real-world applications.
+- 📚 Always learning the latest in **Data Science** and **AI Research**.
+- 🌍 Passionate about solving real-world problems using AI.
 
 ---
 
@@ -41,15 +40,29 @@
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-76B900?style=flat-square)
+
+### 📊 Data Science & AI Skills
+- Data Cleaning & Preprocessing  
+- Feature Engineering  
+- Exploratory Data Analysis (EDA)  
+- Model Training & Optimization  
+- Hyperparameter Tuning  
+- Model Deployment (Flask / FastAPI)  
+- Time Series Analysis  
+- Natural Language Processing (NLP)  
+- Computer Vision  
 
 ### 🗃 Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -59,7 +72,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -71,8 +84,8 @@
 ### 🔹 [Data Analysis Dashboard](https://github.com/mohamedhany777/data-analysis-dashboard)
 📊 Interactive dashboard for visualizing and analyzing datasets.
 
-### 🔹 [Automation Scripts](https://github.com/mohamedhany777/automation-scripts)
-⚡ A collection of Python scripts to automate daily tasks.
+### 🔹 [Machine Learning Projects](https://github.com/mohamedhany777/machine-learning-projects)
+🤖 A collection of ML models and experiments.
 
 ---
 
